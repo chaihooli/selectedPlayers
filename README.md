@@ -12,3 +12,5 @@ My development environment:
 2. Visual Studio Code 1.50.1
 3. Google chrome 87.0
 4. Using live-server to reflect the code-changes in real time, installation instructions here : https://gist.github.com/donmccurdy/20fb112949324c92c5e8
+
+Chai Hooli ©
